@@ -4,14 +4,14 @@ Le but de ce dojo va être de créer une fonction qui parcours un tableau à la 
 
 # Installation
 
-* Cloner le projet dans votre espace de travail
+* Faire un Fork et cloner le projet dans votre espace de travail
 
     `git clone dojo_findminors`
 
 * Installer le projet en local
 
     `npm install`
-    
+
 # Fonctionnement du projet
 
 Le fichier utilisé pour créer la classe contenant la méthode est **users.js**
@@ -29,6 +29,6 @@ La fonction *findMinors_filter* va filtrer la liste et retourner la longueur de 
 
 _Les tests unitaires seront fait avec Karma/Jasmine_
 
-* Pour lancer les tests, utiliser la commande suivante : 
+* Pour lancer les tests, utiliser la commande suivante :
 
     `npm test`
